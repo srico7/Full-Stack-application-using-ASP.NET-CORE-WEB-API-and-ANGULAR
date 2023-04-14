@@ -14,7 +14,7 @@
 
         public long Mobile { get; set; }
 
-        public string ProfileImgURL { get; set; }
+        public string? ProfileImgURL { get; set; }
 
         public Guid GenderId { get; set; }
 
